@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jgcricolors"]
+	path = jgcricolors
+	url = https://github.com/jgcri/jgcricolors
+	shallow = true
+	registered = true
